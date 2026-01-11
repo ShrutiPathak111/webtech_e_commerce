@@ -20,16 +20,16 @@ Virtual try-on feature: Three.js
 ## Key Features
 
 User Authentication - Secure login and session handling<br>
-Home Page - Clean and aesthetic landing page
-Shop Module - Browse clothing items
-View product details
-3D Virtual Try-On - Visualize how clothes fit on a virtual avatar
-Cart & Checkout - Add/remove products
-Secure Payment Integration - Safe and reliable payment process
-Informational Pages
-About Us
-FAQ
-Contact Page
+Home Page - Clean and aesthetic landing page<br>
+Shop Module - Browse clothing items<br>
+View product details<br>
+3D Virtual Try-On - Visualize how clothes fit on a virtual avatar<br>
+Cart & Checkout - Add/remove products<br>
+Secure Payment Integration - Safe and reliable payment process<br>
+Informational Pages<br>
+About Us<br>
+FAQ<br>
+Contact Page<br>
 
  
  
@@ -50,8 +50,8 @@ npm start
 
 ## Future Enhancements
 
-AI-based body measurement estimation
-Personalized outfit recommendations using ML
-Improved AR realism
-Mobile app version
-Integration with real payment gateways
+AI-based body measurement estimation<br>
+Personalized outfit recommendations using ML<br>
+Improved AR realism<br>
+Mobile app version<br>
+Integration with real payment gateways<br>
