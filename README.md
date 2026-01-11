@@ -19,7 +19,7 @@ Virtual try-on feature: Three.js
 
 ## Key Features
 
-User Authentication - Secure login and session handling
+User Authentication - Secure login and session handling<br>
 Home Page - Clean and aesthetic landing page
 Shop Module - Browse clothing items
 View product details
